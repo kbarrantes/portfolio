@@ -46,7 +46,9 @@ section {
 button {
   background-color: black;
   color: white;
+  border: none;
   border-radius: 2px;
   padding: 5px;
-  display: center;
+  margin-top 40px;
+ 
 }
