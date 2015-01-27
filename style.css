@@ -37,5 +37,7 @@ h2 {
 }
 
 section {
-  background-image: url(https://unsplash.com/photos/xVHr4B1WApk/download);
+  text-align: center;
+  background-image: url(https://unsplash.com/photos/0G1r-Cg0zS8/download);
+  height: 400px;
 }
