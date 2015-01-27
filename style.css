@@ -1,7 +1,14 @@
+
+
 body {
-background-color: darkred;
-color: white;
+color: #212121;
 font-family: sans-serif;
+}
+
+nav a {
+  text-decoration: none;
+  color: #F5F5F5;
+  background-color: #9E9E9E;
 }
 h2 {
   color: black;
