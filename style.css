@@ -35,3 +35,7 @@ header h1 {
 h2 {
   color: black;
 }
+
+section {
+  background-image: url(https://unsplash.com/photos/xVHr4B1WApk/download);
+}
