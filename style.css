@@ -20,6 +20,10 @@ nav a:hover {
   background-color: #727272;
 }
 
+header {
+  text-align: center;
+}
+
 header img {
   border-radius: 50%;
 }
