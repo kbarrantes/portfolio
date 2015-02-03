@@ -49,8 +49,12 @@ section {
   height: 250px;
 }
 
+p{
+  color: black;
+  background-color: #FFFACD;
+  font-family: Helvetica;
+ }
 
- 
 button {
   background-color: black;
   color: white;
