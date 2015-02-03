@@ -42,13 +42,13 @@ section {
   background-image: url(https://unsplash.com/photos/0G1r-Cg0zS8/download);
   height: 400px;
   background-size:cover;
+  margin: 0;
 }
 
 #features {
   background-image: none;
   background-color: #C0C0C0;
   height: 250px;
-  margin: 0;
 }
 
 p{
