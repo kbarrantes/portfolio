@@ -62,7 +62,7 @@ p{
  
  p:hover {
    margin-top: 20px;
-   transform: rotate(7deg);
+   transform: rotate(-9deg);
  }
 
 button {
