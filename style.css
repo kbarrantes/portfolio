@@ -44,7 +44,8 @@ section {
 }
 
 #features {
-  background-color: blue;
+  background-image: none;
+  background-color: lightblue;
   height: 250px;
 }
 
