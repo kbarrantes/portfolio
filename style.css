@@ -89,3 +89,8 @@ box-sizing: border-box;
   background-color: black;
   
 }
+
+table {
+  width: 1214px;
+  margin: 0 auto;
+}
