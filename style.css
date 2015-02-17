@@ -75,3 +75,17 @@ button {
   opacity: .8;
  
 }
+
+footer {
+background-color: #000;
+height: 150px;
+text-align: center;
+background-color: #727272;
+padding: 50px;
+box-sizing: border-box;
+}
+
+.menu-selected {
+  background-color: black;
+  
+}
